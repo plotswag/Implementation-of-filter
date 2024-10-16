@@ -38,7 +38,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('kamal1jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('kamal1.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 salt_prob = 0.05  # Probability of salt noise
@@ -105,7 +105,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('kamal1jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('kamal1.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 salt_prob = 0.05  # Probability of salt noise
@@ -181,7 +181,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('kamal1jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('kamal1.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add Gaussian noise to the image
 mean = 0
@@ -238,7 +238,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('kamal1jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('kamal1.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Add salt-and-pepper noise to the image
 salt_prob = 0.05  # Probability of salt noise
@@ -306,7 +306,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('kamal1jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('kamal1.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Apply Gaussian blur to reduce noise
 blurred_image = cv2.GaussianBlur(image, (3, 3), 0)
@@ -375,7 +375,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image in grayscale
-image = cv2.imread('kamal1jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('kamal1.jpg', cv2.IMREAD_GRAYSCALE)
 
 # Apply Gaussian blur to reduce noise
 blurred_image = cv2.GaussianBlur(image, (3, 3), 0)
