@@ -25,8 +25,8 @@ Apply the Laplacian operator to the RGB image (image2) using OpenCV's cv2.Laplac
 
 ## Program:
 ```
-Developed By   : DEEPAK RAJ S
-Register No : 212222240023
+Developed By   : Jeevanesh
+Register No : 212222243002
 ```
 
 ### 1. Smoothing Filters
@@ -418,28 +418,28 @@ plt.show()
 
 i) Averaging Filter
 
-![image](https://github.com/user-attachments/assets/517a2a10-9047-42fd-b68b-98dcc5a3db66)
+![image](https://github.com/user-attachments/assets/77e54cd2-6351-4816-94a4-bccf19d9199b)
 
 ii)Using Weighted Averaging Filter
 
-![image](https://github.com/user-attachments/assets/084116d7-bfe2-40a0-81c7-b274505584bc)
+![image](https://github.com/user-attachments/assets/da6f9cc5-47c4-4c50-a45a-0b8e4ba5a331)
 
 iii)Using Gaussian Filter
 
-![image](https://github.com/user-attachments/assets/4a3e8bbb-f3b1-4b38-bc05-69f6abdeb31f)
+![image](https://github.com/user-attachments/assets/63e7ad0d-f46a-40d4-8a9f-444ef962461b)
 
 iv) Using Median Filter
 
-![image](https://github.com/user-attachments/assets/c8a95c1f-760d-476e-81fc-6158fbf7500d)
+![image](https://github.com/user-attachments/assets/0dd412fa-b4fc-4827-8b23-810f25abae7d)
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
 
-![image](https://github.com/user-attachments/assets/125393e2-d216-4fbe-ad2e-a6ed9d8aaac1)
+![image](https://github.com/user-attachments/assets/4fe6eae6-fbae-4980-8fc1-920310a83a46)
 
 ii) Using Laplacian Operator
 
-![image](https://github.com/user-attachments/assets/f49fe82c-7a5a-446b-a2d4-b3fbdfaca8d7)
+![image](https://github.com/user-attachments/assets/6422bb4a-fb15-4a7e-9bd0-8bbd0db6a4e7)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
